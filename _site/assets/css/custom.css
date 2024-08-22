@@ -189,6 +189,9 @@ ul, ol{
     color: var(--dark-text);
     background-color:var(--light-grey2);
 }
+.margin-t15{
+    margin-top: var(--margin-t15);
+}
 
 
 /********* HEADER & SIDEBAR SECTION *********/
